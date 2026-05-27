@@ -1,0 +1,15 @@
+:root {
+  --bg: #010309;
+  --ink: #f8fafc;
+  --ink-muted: rgba(248, 250, 252, 0.72);
+  --accent: #00a6fb;
+  --accent-2: #266af7;
+  --card: rgba(3, 26, 63, 0.7);
+  --border: rgba(0, 166, 251, 0.25);
+  --font-sans: "Cinzel", "Georgia", serif;
+  --font-display: "Playfair Display", "Times New Roman", serif;
+  --radius: 14px;
+  --shadow: 0 12px 30px rgba(31, 28, 26, 0.12);
+  --shadow-soft: 0 6px 18px rgba(31, 28, 26, 0.08);
+  --max-width: 1200px;
+}

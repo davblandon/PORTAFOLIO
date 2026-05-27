@@ -1,0 +1,20 @@
+[
+  {
+    "name": "PQRS_SYSTEM",
+    "summary": "Sistema para la gestion de PQRS con roles y filtros.",
+    "stack": ["HTML", "CSS", "JavaScript"],
+    "url": "https://github.com/davblandon/PQRS_SYSTEM"
+  },
+  {
+    "name": "DEFENDIENDO_EL_OLIMPO",
+    "summary": "Proyecto creativo con narrativa y mecanicas interactivas.",
+    "stack": ["HTML", "CSS", "JavaScript"],
+    "url": "https://github.com/davblandon/DEFENDIENDO_EL_OLIMPO"
+  },
+  {
+    "name": "davblandon",
+    "summary": "Repositorio personal con metricas de WakaTime y perfil profesional.",
+    "stack": ["Markdown", "WakaTime"],
+    "url": "https://github.com/davblandon/davblandon"
+  }
+]
