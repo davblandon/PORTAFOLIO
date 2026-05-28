@@ -20,6 +20,13 @@ const projects = [
     url: "https://github.com/davblandon/davblandon",
     image: "assets/images/davblandon.png",
   },
+  {
+    name: "CLEAN CLOTHES",
+    summary: "Landing page para servicios de lavandería.",
+    stack: ["HTML", "CSS", "JavaScript"],
+    url: "https://github.com/davblandon/CLEAN_CLOTHES",
+    image: "assets/images/clean_clothes.png",
+  },
 ];
 
 const container = document.getElementById("projects");
